@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/whattheduck/static/css/main.87ef0f69.css",
-    "main.js": "/whattheduck/static/js/main.83f7283f.js",
+    "main.js": "/whattheduck/static/js/main.ba365d16.js",
     "index.html": "/whattheduck/index.html",
     "main.87ef0f69.css.map": "/whattheduck/static/css/main.87ef0f69.css.map",
-    "main.83f7283f.js.map": "/whattheduck/static/js/main.83f7283f.js.map"
+    "main.ba365d16.js.map": "/whattheduck/static/js/main.ba365d16.js.map"
   },
   "entrypoints": [
     "static/css/main.87ef0f69.css",
-    "static/js/main.83f7283f.js"
+    "static/js/main.ba365d16.js"
   ]
 }
